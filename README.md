@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Cristiano.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
+<img src="https://64.media.tumblr.com/d4a2123d591e78b8f4863cf39e2a9522/8696a10088319ccf-4a/s400x600/d1ba5b0c23486316901ee47861ea830148ab2f99.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
