@@ -15,7 +15,7 @@
 ### GitHub Stats
 
 <div align-itens="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/cristianosts">
+  <a href="https://github.com/Cristiano">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=cristianosts&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
