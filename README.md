@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=Hi%2C+everyone!+I'm+Cristiano.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<div width="100%"><img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Pixel Art" align="right" width="200"></div>
+<div width="50%"><img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Pixel Art" align="right" width="200"></div>
 <br/>
 • Technologies and tools:
 
