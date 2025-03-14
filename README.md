@@ -24,7 +24,7 @@
     </td> 
 </table>
     <br>
-<table width="50%">
+<table>
     <td valign="top" width="50%"> <br>
       <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&hide_border=true&layout=compact&theme=dark" align="center" />
