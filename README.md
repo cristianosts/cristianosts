@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=Hi%2C+everyone!+I'm+Cristiano.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" 
-       alt="Pixel Art" 
-       width="200" 
-       style="max-width: 100%; height: auto;">
-</div>
+
 
 <br/>
 • Technologies and tools:
@@ -19,6 +14,10 @@
   <img align="center" alt="Cris-react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
+
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Pixel Art" width="200" style="max-width: 100%; height: auto;">
+</div>
 
 ### GitHub Stats
 
