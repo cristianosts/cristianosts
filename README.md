@@ -4,9 +4,9 @@
 <div width="300"><img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Pixel Art" align="right" width="200"></div>
 
 <br/>
-<h2 width="100%">• Technologies and tools:</h2>
+<h2 >• Technologies and tools:</h2>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" width="100%"><br>
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
