@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=Hi%2C+everyone!+I'm+Cristiano.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<div>
-  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Pixel Art" width="200" style="max-width: 100%; height: auto;">
+<div style="display: flex; justify-content: center;">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" 
+       alt="Pixel Art" 
+       width="200" 
+       style="max-width: 100%; height: auto;">
 </div>
 
 <br/>
