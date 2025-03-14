@@ -21,9 +21,12 @@
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
       </div>
-    </td> <br/>
+    </td> 
+    <br/>       
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&hide_border=true&layout=compact&theme=dark" align="left" />
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&hide_border=true&layout=compact&theme=dark" align="left" />
+      </div>
     </td>
   </tr>
 </table>  
