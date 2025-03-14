@@ -25,9 +25,9 @@
 </table>
     <br>
 <table>
-    <td valign="top" width="50%"> <br>
+    <td valign="top" width="70%"> <br>
       <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&hide_border=true&layout=compact&theme=dark" align="center" width="150%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&hide_border=true&layout=compact&theme=dark" align="center" />
       </div>
     </td>
   </tr>
