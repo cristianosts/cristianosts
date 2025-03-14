@@ -15,12 +15,19 @@
 
 ### GitHub Stats
 
-<div align-itens="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/cristianosts">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=cristianosts&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&hide_border=true&layout=compact&theme=dark" align="left" />
+    </td>
+  </tr>
+</table>  
+<br/> 
     
 ### Contact
 
