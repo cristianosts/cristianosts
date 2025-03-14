@@ -4,7 +4,7 @@
 <div><img src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif" alt="Pixel Art" align="right" width="200"></div>
 
 <br/>
-<h3>• Technologies and tools:</h3>
+<h2>• Technologies and tools:</h2>
 <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
