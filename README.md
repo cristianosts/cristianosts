@@ -6,7 +6,7 @@
 <br/>
 • Technologies and tools:
 
-<div style="display: flex; justify-content: center; gap: 10px; width: 100%;">
+<div style="display: flex; justify-content: center; gap: 10px; width: auto;">
   <img alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
