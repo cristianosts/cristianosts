@@ -12,7 +12,7 @@
 </div>
 
 ...
-oi
+var greets = oi;
 ...
 
 ### GitHub Stats
