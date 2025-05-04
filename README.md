@@ -30,5 +30,5 @@
 
 
   <br>
-  <img loading="lazy" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=midnight-black&hide_border=false" /> 
+  <img loading="lazy" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&hide_border=false" /> 
 
