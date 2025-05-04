@@ -7,7 +7,6 @@
 <p align="center"><a href="https://portfoliocr-web.vercel.app/">Portfolio↗️</a></p>
 <div align=center>
  
- [![wakatime](https://wakatime.com/badge/user/018b7c34-66c0-414f-bed4-3cc0802eb59d.svg?style=for-the-badge)](https://wakatime.com/@018b7c34-66c0-414f-bed4-3cc0802eb59d)
  
 </div>
 
