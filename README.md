@@ -1,4 +1,4 @@
-[![MasterHead](https://cristianosts.github.io)
+
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Arjun C Vinod</h1>
  <!----Tag line------>
 <div align=center>
