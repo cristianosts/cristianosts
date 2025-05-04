@@ -11,7 +11,7 @@
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<div style="background: gray">
+<div style="color: red">
   let greets = Oi
 </div>
 
