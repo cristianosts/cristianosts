@@ -11,9 +11,10 @@
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-...
-var greets = oi;
-...
+<div background='gray'>
+  let greets = Oi
+</div>
+
 
 ### GitHub Stats
 
