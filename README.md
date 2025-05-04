@@ -34,24 +34,14 @@
   <br>
   <img loading="lazy" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arjuncvinod&theme=midnight-purple&hide_border=false" /> 
 
-</td>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arjuncvinod&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-  
-</tr>
-</table>
 
 
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />     
 <br>
 
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <p  align="center">
  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
