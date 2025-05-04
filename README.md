@@ -12,8 +12,8 @@
 
 
   
-![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=arjuncvinod&style=for-the-badge&logo=github" alt="" />
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+![GitHub followers](https://img.shields.io/github/followers/cristianosts?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/cristianosts?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=cristianosts&style=for-the-badge&logo=github" alt="" />
+
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
 
