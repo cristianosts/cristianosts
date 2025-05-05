@@ -1,10 +1,10 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%#0000ff&size=38&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Cristiano;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=#0000ff&size=38&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Cristiano;" alt="Headline" />
     </div>
 
 <!----Tag line------>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%#0000ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=#0000ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
     </div>
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio↗️</b></a></p>
 
