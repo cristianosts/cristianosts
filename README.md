@@ -44,8 +44,9 @@
    />
 </td>
 </table>
+<br>
 <table>
-    <td width="50%"> <br>
+    <td width="50%"> 
       <div align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&theme=dark&hide_border=true">
       </div>
