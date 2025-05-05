@@ -52,8 +52,10 @@
       </div>
     </td>
   </tr>
-        <img src="https://github-readme-stats.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
 </table>  
+  
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br> 
     
 ### Contact
