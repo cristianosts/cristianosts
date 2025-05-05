@@ -54,7 +54,7 @@
   </tr>
 </table>  
   
-  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> 
     
