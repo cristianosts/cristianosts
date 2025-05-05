@@ -49,7 +49,7 @@
   <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=dark&hide_border=true"
-        alt="Github Stats"
+        alt="Github Stats" width="500"
    />
 </td>
 </table>
