@@ -44,6 +44,8 @@
   </tr>
 </table>  
 <br> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&theme=dark&hide=css)
     
 ### Contact
 
