@@ -37,7 +37,7 @@
 <table>
     <td width="50%"> <br>
       <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&theme=dark&hide_border=true" width="400" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&theme=dark&hide_border=true">
       </div>
     </td>
   </tr>
