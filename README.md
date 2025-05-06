@@ -4,8 +4,7 @@
 
 <!----Tag line------>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full- 
-        Stack+Student;Software+Engineer+Student;" alt="Headline" />
+<img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
 </div>
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio↗️</b></a></p>
 
@@ -58,12 +57,6 @@
     </td>
   </tr>
 </table>  
-
-<img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
 
 <br> 
     
