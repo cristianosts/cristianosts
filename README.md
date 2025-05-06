@@ -41,7 +41,7 @@
    <td>
         <img
         align="left"
-        src="https://github-readme-streak-stats.vercel.app/?user=cristianosts&theme=dark&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=dark&hide_border=true"
         alt="Github Stats"/>
    </td>
 </table>
