@@ -6,7 +6,7 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
 </div>
-<p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>⌂Portfolio</b></a></p>
+<p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
