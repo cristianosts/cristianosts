@@ -39,10 +39,7 @@
     <br>
 <table>
    <td>
-        <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=dark&hide_border=true"
-        alt="Github Stats"/>
+       <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=cristianosts&theme=dark" alt="GitHub Streak" /></a>
    </td>
 </table>
 <br>
