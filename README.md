@@ -39,7 +39,7 @@
     <br>
 <table>
    <td>
-       <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=cristianosts&theme=dark" alt="GitHub Streak" /></a>
+       <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=cristianosts&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
    </td>
 </table>
 <br>
