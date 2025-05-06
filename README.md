@@ -4,8 +4,9 @@
 
 <!----Tag line------>
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
-    </div>
+        <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full- 
+        Stack+Student;Software+Engineer+Student;" alt="Headline" />
+</div>
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio↗️</b></a></p>
 
 
@@ -38,20 +39,21 @@
 </table>
     <br>
 <table>
-<td>
-
-  <img
+   <td>
+        <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=dark&hide_border=true"
-        alt="Github Stats"
-   />
-</td>
+        alt="Github Stats"/>
+   </td>
 </table>
 <br>
 <table>
     <td width="50%"> 
       <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&layout=compact&theme=dark&hide_border=true"> 
+          <img
+           align="left"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+           alt="Github Stats"/>
       </div>
     </td>
   </tr>
@@ -59,7 +61,7 @@
 
 <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
 
