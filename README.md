@@ -28,7 +28,7 @@
     </td>
     <td width="40%">
       <img 
-src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJpcmdrdTI0bHYxeHF2aDVkdGNhMzkwbGVzcTlhOHpxcXdzejhjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EiRZJNR7cgZwqncwM/giphy.gif alt="GIF Futurista" width="100%">
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJpcmdrdTI0bHYxeHF2aDVkdGNhMzkwbGVzcTlhOHpxcXdzejhjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EiRZJNR7cgZwqncwM/giphy.gif" alt="GIF Futurista" width="100%">
     </td>
   </tr>
 </table>
