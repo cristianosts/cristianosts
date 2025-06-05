@@ -27,7 +27,7 @@
       <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
     </td>
     <td width="40%">
-      <img src="https://images.app.goo.gl/c8jqojzsNNAJ8Y3v5" width="100%">
+      <img src="https://images.app.goo.gl/obFnte5jqRKfErUt9" width="100%">
     </td>
   </tr>
 </table>
