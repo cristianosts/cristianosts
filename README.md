@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmdvZ2l5NjlydzE3dmtnYTY0N3EycHd0YW4zdTd3engwbGhocHE3MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif" alt="GIF Futurista" width="40%" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRmc3Rtengxd3Y1YXc3cjl4ZnJiZGkxOTQ1aW5hNDY5YmpoNnBjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aTUTJOn3aavLVC6G1/giphy.gif" alt="GIF Futurista" width="40%" align="right">
 
 <h2>About Me</h2>
 
