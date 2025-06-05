@@ -26,6 +26,35 @@ I believe that code goes beyond logic — it's a bridge between people and real 
 </code>
 
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Sobre mim</h3>
+      <p>Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.</p>
+      <p>Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.</p>
+      <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
+    </td>
+    <td width="40%" valign="top">
+      <img src="<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>Sobre mim</h3>
+      <p>Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.</p>
+      <p>Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.</p>
+      <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" alt="GIF Futurista">
+    </td>
+  </tr>
+</table>
+" width="100%" alt="GIF Futurista">
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
 
