@@ -13,15 +13,16 @@
 <br>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmdvZ2l5NjlydzE3dmtnYTY0N3EycHd0YW4zdTd3engwbGhocHE3MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif" alt="GIF Futurista" width="30%" align="right">
-<h3>Sobre mim</h3>
+
+<h2>About Me</h2>
 
 <br>
 <code><p>
-Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.
-Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.
+I'm a Front-End developer focused on transforming ideas into intuitive, performant, and scalable digital experiences.
+I believe that code goes beyond logic — it's a bridge between people and real solutions. Every component I develop carries a purpose, and every interaction is designed to generate value and delight.
 </p>
 
-<p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
+<p><strong>Let’s build the future with code that speaks people’s language — one interface at a time.💻</strong></p>
 </code>
 
 
