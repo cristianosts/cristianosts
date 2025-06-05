@@ -15,7 +15,7 @@
 
 <h2>About Me</h2>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFldzdyM2drZnByamF1Ym05MHBpNXNqY3BsMWh0azN1cjR1em40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhFfFPCEDXpBe/giphy.gif" width="40%" align="right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFldzdyM2drZnByamF1Ym05MHBpNXNqY3BsMWh0azN1cjR1em40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhFfFPCEDXpBe/giphy.gif" width="50%" align="right">
 <br>
 <code><p>
 I'm a Front-End developer focused on transforming ideas into intuitive, performant, and scalable digital experiences.
