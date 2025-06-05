@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" align="center">
       <h3>Sobre mim</h3>
       <p>Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.</p>
       <p>Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.</p>
@@ -22,20 +22,6 @@
     </td>
     <td width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmdvZ2l5NjlydzE3dmtnYTY0N3EycHd0YW4zdTd3engwbGhocHE3MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif" width="100%">
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Sobre mim</h3>
-      <p>Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.</p>
-      <p>Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.</p>
-      <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmdvZ2l5NjlydzE3dmtnYTY0N3EycHd0YW4zdTd3engwbGhocHE3MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif" width="100%" alt="GIF Futurista">
     </td>
   </tr>
 </table>
