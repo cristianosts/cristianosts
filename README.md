@@ -6,14 +6,17 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
 </div>
+<br>
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>
 
-*<h3>Hey! Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis. Meu trabalho é guiado pela interseção entre design centrado no usuário, linguagens de software moderna e obsessão por detalhes.
+<br>
+
+<h3>Hey! Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis. Meu trabalho é guiado pela interseção entre design centrado no usuário, linguagens de software moderna e obsessão por detalhes.
 Acredito que o código vai além da lógica, ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.
 Aqui você encontrará projetos que traduzem minha paixão por tecnologia em interfaces refinadas, acessíveis e resilientes.
 <br>
 <br>
-Vamos construir o futuro com código que fala a linguagem das pessoas... uma interface de cada vez. 💻</h3>*
+Vamos construir o futuro com código que fala a linguagem das pessoas... uma interface de cada vez. 💻</h3>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
