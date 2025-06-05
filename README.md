@@ -35,7 +35,7 @@ I believe that code goes beyond logic — it's a bridge between people and real 
       <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
     </td>
     <td width="40%" valign="top">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajNmeXFuMnVxd2d6ZGJvamxwNWE3aWFyb3kxOHN4aDR0OWJlM2c2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FDE03RPdYPs3NMj4Fw/giphy.gif" width="100%" alt="GIF Futurista">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHN1Y3lvdjJqbmVoaG9xeWE3bmlqZzVrOHpsaTJ4enlsMzJ1cWIybyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/5vzkjbHlyA4VKye4Mp/giphy.gif" width="100%" alt="GIF Futurista">
     </td>
   </tr>
 </table>
