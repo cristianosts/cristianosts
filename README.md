@@ -27,7 +27,7 @@
       <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
     </td>
     <td width="40%">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRC1A/giphy.gif" alt="GIF Futurista" width="100%">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com/giphy.gif" alt="GIF Futurista" width="100%">
     </td>
   </tr>
 </table>
