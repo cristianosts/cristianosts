@@ -16,10 +16,10 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmdvZ2l5NjlydzE3dmtnYTY0N3EycHd0YW4zdTd3engwbGhocHE3MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7Vutp7Tvkho2yxqMHB/giphy.gif" alt="GIF Futurista" width="40%" align="right">
 <br>
-<p>
+<code><p>
 Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.
 Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.
-</p>
+</p></code>
 
 <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
 
@@ -40,7 +40,7 @@ Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e
   <img align="center" alt="Cris-node" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Cris-mysql" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+</div><br>
 
 
 
