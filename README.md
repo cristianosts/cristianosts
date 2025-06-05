@@ -27,8 +27,7 @@
       <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
     </td>
     <td width="40%">
-            
- ![Descrição](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRC1A&psig=AOvVaw0DX2hhMChVYItWvvXzk_ww&ust=1749244454792000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLioxtSZ240DFQAAAAAdAAAAABAV)
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRC1A&psig=AOvVaw0DX2hhMChVYItWvvXzk_ww&ust=1749244454792000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLioxtSZ240DFQAAAAAdAAAAABAV" alt="GIF Futurista" width="100%">
     </td>
   </tr>
 </table>
