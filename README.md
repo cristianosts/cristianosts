@@ -8,11 +8,11 @@
 </div>
 <br>
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRmc3Rtengxd3Y1YXc3cjl4ZnJiZGkxOTQ1aW5hNDY5YmpoNnBjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1aTUTJOn3aavLVC6G1/giphy.gif" alt="GIF Futurista" width="40%" align="right">
 
 <br>
 <br>
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzJpcmdrdTI0bHYxeHF2aDVkdGNhMzkwbGVzcTlhOHpxcXdzejhjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EiRZJNR7cgZwqncwM/giphy.gif" width="40%" align="right">
 
 <h2>About Me</h2>
 
