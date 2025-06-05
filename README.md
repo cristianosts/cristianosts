@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<table hide_border="true">
+<table style="border: none">
   <tr>
     <td width="60%">
       <h3>Sobre mim</h3>
