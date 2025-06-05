@@ -28,8 +28,7 @@
     </td>
     <td width="40%">
             
- ![Descrição](https://images.app.goo.gl/obFnte5jqRKfErUt9/giphy.gif)
-    
+ ![Descrição](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRC1A&psig=AOvVaw0DX2hhMChVYItWvvXzk_ww&ust=1749244454792000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLioxtSZ240DFQAAAAAdAAAAABAV)
     </td>
   </tr>
 </table>
