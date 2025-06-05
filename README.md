@@ -19,10 +19,10 @@
 <code><p>
 Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis.
 Acredito que o código vai além da lógica — ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.
-</p></code>
+</p>
 
 <p><strong>Vamos construir o futuro com código que fala a linguagem das pessoas — uma interface de cada vez. 💻</strong></p>
-
+</code>
 
 
 
