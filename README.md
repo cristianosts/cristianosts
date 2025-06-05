@@ -11,7 +11,7 @@
 
 <br>
 
-##<p>Hey! Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis. Meu trabalho é guiado pela interseção entre design centrado no usuário, linguagens de software moderna e obsessão por detalhes.
+## <p>Hey! Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis. Meu trabalho é guiado pela interseção entre design centrado no usuário, linguagens de software moderna e obsessão por detalhes.
 Acredito que o código vai além da lógica, ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.
 Aqui você encontrará projetos que traduzem minha paixão por tecnologia em interfaces refinadas, acessíveis e resilientes.
 <br>
