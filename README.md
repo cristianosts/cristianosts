@@ -8,10 +8,16 @@
 </div>
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>
 
-**<p >Olá! Sou um desenvolvedor Front-End movido por design intuitivo, performance e inovação. Acredito no poder do código para conectar pessoas, resolver problemas reais e criar interfaces que encantam. Aqui você vai encontrar projetos que refletem minha paixão por tecnologia, criatividade e atenção aos detalhes — cada linha escrita com propósito, cada componente com foco no usuário.
+**<p >Hey! Sou um desenvolvedor Front-End focado em transformar ideias em experiências digitais intuitivas, performáticas e escaláveis. Meu trabalho é guiado pela interseção entre design centrado no usuário, linguagens de software moderna e obsessão por detalhes.
+
+Acredito que o código vai além da lógica, ele é uma ponte entre pessoas e soluções reais. Cada componente que desenvolvo carrega propósito, cada interação é pensada para gerar valor e encantamento.
+
+Aqui você encontrará projetos que traduzem minha paixão por tecnologia em interfaces refinadas, acessíveis e resilientes.
+
 <br>
 <br>
-Vamos construir o futuro, uma interface de cada vez. 💻</p>**
+
+Vamos construir o futuro com código que fala a linguagem das pessoas... uma interface de cada vez. 💻</p>**
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
