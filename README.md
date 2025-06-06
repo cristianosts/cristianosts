@@ -10,7 +10,6 @@
 <p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>
 
 <br>
-<br>
 
 
 <h2>About Me</h2>
