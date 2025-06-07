@@ -12,7 +12,7 @@
 <br>
 
 
-<h2>About Me</h2>
+<code><h2>About Me</h2></code>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFldzdyM2drZnByamF1Ym05MHBpNXNqY3BsMWh0azN1cjR1em40byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhFfFPCEDXpBe/giphy.gif" width="45%" align="right">
 <code><p>
@@ -42,7 +42,7 @@ I believe that code goes beyond logic — it's a bridge between people and real 
 
 
 
-### GitHub Stats
+<code><h2>GitHub Stats</h2></code>
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -72,7 +72,7 @@ I believe that code goes beyond logic — it's a bridge between people and real 
 
 <br> 
     
-### Contact
+<code><h2>Contact</h2></code>
 
 <div> 
   <a href="https://www.linkedin.com/in/cristiano-santos-800062346/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
