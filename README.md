@@ -1,6 +1,6 @@
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=38&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Cristiano;" alt="Headline" />
-    </div>
+        <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=38&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Cristiano;&repeat=false" alt="Headline" />
+</div>
 
 <!----Tag line------>
 <div align=center>
