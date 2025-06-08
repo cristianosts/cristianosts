@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=32cd32&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Developer;Full-Stack+Student;Software+Engineer+Student;" alt="Headline" />
 </div>
 <br>
-<!---<p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>
+<!---<p align="center"><a href="https://portfoliocr-web.vercel.app/"><b>Portfolio</b></a></p>--->
 
 <br>
 
