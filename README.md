@@ -20,7 +20,7 @@ I'm a Front-End developer focused on transforming ideas into intuitive, performa
 I believe that code goes beyond logic, it's a bridge between people and real solutions. Every component I develop carries a purpose, and every interaction is designed to generate value and delight.
 </h3>
 
-<p><strong>Let’s build the future with code that speaks people’s language, one interface at a time.💻</strong></p>
+<h3><strong>Let’s build the future with code that speaks people’s language, one interface at a time.💻</strong></h3>
 </code>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><code>Skills</code> 
