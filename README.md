@@ -46,9 +46,7 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 <table>
   <tr>
     <td valign="top" width="50%">
-      <div align="center">
       <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center"/>
-      </div>
     </td> 
 </table>
     <br>
