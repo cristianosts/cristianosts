@@ -80,4 +80,6 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 </div>
 
 
+![Stars](https://img.shields.io/github/stars/cristianosts?affiliations=OWNER%2CCOLLABORATOR)
+
 
