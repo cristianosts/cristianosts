@@ -39,8 +39,6 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark)
-
 
 
 <code><h2>GitHub Stats</h2></code>
@@ -80,6 +78,8 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
   <a href="mailto:cristianosantosreal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark)
 
 
 
