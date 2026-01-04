@@ -79,7 +79,5 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
   
 </div>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
-
 
 
