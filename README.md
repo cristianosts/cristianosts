@@ -45,33 +45,34 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
         alt="GitHub Stats"
-        width="100%"
-      />
-    </td>
-
-<td width="50%" align="center">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-        width="100%"
+        width="600"
+        style="max-width: 100%; height: auto;"
       />
     </td>
   </tr>
-</table>
 
-<br>
-
-<table width="100%">
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+        width="600"
+        style="max-width: 100%; height: auto;"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img
+        src="SUA_URL_DO_STREAK"
         alt="GitHub Streak"
-        width="70%"
+        width="600"
+        style="max-width: 100%; height: auto;"
       />
     </td>
   </tr>
