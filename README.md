@@ -50,7 +50,7 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
       />
     </td>
 
-    <td width="50%">
+<td width="50%">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
         alt="Top Languages"
