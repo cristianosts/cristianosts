@@ -65,13 +65,18 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 
 <br>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-    width="70%"
-  />
-</div>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
+        alt="GitHub Streak"
+        width="70%"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
