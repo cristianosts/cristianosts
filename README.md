@@ -40,6 +40,7 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 </div><br>
 
 
+
 <h2>GitHub Stats</h2>
 
 <table width="100%">
@@ -64,17 +65,13 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 
 <br>
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
-        alt="GitHub Streak"
-        width="70%"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
+</div>
 
 
 
