@@ -42,33 +42,40 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 
 <h2>GitHub Stats</h2>
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
 
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
-    alt="GitHub Stats"
-    width="49%"
-  />
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-    alt="Top Languages"
-    width="49%"
-  />
-
-</div>
+<td width="50%" align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
+        alt="GitHub Streak"
+        width="70%"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-    width="70%"
-  />
-
-</div>
 
 
 
