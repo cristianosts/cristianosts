@@ -44,7 +44,7 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 
 <h2>GitHub Stats</h2>
 
-<table width="100%">
+<table width="50%">
   <tr>
     <td width="50%" align="center">
       <img
