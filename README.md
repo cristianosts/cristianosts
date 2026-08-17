@@ -39,36 +39,42 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
 
+
 <h2>GitHub Stats</h2>
 
 <table>
   <tr>
     <td width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
-        alt="GitHub Stats"
-      />
+      <div align="center">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
+          alt="GitHub Stats"
+        />
+      </div>
     </td>
 
 <td width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
+      <div align="center">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+          alt="Top Languages"
+        />
+      </div>
     </td>
   </tr>
 </table>
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
     <img
       src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=dark&hide_border=true"
       alt="GitHub Streak"
     />
   </a>
-</p>
+</div>
+
 
 
 <br> 
