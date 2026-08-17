@@ -42,38 +42,32 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
 
 <h2>GitHub Stats</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
-          alt="GitHub Stats"
-        />
-      </div>
-    </td>
-
-<td width="50%">
-      <div align="center">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-          alt="Top Languages"
-        />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=cristianosts&theme=dark&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
+    alt="GitHub Stats"
+    width="100%"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Languages"
+    width="100%"
+  />
+
+  <br><br>
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
+
 </div>
+
 
 
 
