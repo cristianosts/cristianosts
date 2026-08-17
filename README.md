@@ -52,8 +52,8 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
         alt="GitHub Stats"
         width="100%"
       />
-    </td>
-
+    </td> </tr>
+    <tr>
 <td width="50%" align="center">
       <img
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
