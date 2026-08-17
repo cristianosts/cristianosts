@@ -47,27 +47,28 @@ I believe that code goes beyond logic, it's a bridge between people and real sol
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=cristianosts&show_icons=true&count_private=true&hide_border=true&theme=dark"
     alt="GitHub Stats"
-    width="100%"
+    width="49%"
   />
-
-  <br><br>
 
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cristianosts&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
     alt="Top Languages"
-    width="100%"
-  />
-
-  <br><br>
-
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
-    alt="GitHub Streak"
-    width="100%"
+    width="49%"
   />
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=cristianosts&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+    width="70%"
+  />
+
+</div>
 
 
 
